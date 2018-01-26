@@ -25,6 +25,8 @@
 **INSERT awesome GIF of your project**
 http://gifmaker.me/
 
+
+
 ## Getting Started
 **Use this section to describe the spin-up process. Installation steps, dependencies, etc.**
 
@@ -56,7 +58,7 @@ $ npm start
 
 ## Architecture
 ### High Level Architecture
-![Architecture](http://i64.tinypic.com/2zpp661.png)
+![Architecture](https://s3.us-east-2.amazonaws.com/fcc-wiki-view/wiki-view.gif)
 ### Database Schema
 Postgres using SQLAlchemy ORM
 ![Schema](http://i68.tinypic.com/23i6plz.jpg)
